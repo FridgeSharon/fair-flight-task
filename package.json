@@ -1,0 +1,25 @@
+{
+	"name": "fair-flight-task",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "ts-node ./index.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FridgeSharon/fair-flight-task.git"
+	},
+	"author": "Guy Sharon",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/FridgeSharon/fair-flight-task/issues"
+	},
+	"homepage": "https://github.com/FridgeSharon/fair-flight-task#readme",
+	"dependencies": {
+		"axios": "^1.6.8"
+	},
+	"devDependencies": {
+		"ts-node": "^10.9.2"
+	}
+}
