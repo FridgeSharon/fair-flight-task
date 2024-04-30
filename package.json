@@ -1,21 +1,20 @@
 {
-	"name": "fair-flight-task",
+	"name": "fair-place-task",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
 	"scripts": {
 		"start": "ts-node ./index.ts"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/FridgeSharon/fair-flight-task.git"
+		"url": "git+https://github.com/FridgeSharon/fair-place-task.git"
 	},
 	"author": "Guy Sharon",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/FridgeSharon/fair-flight-task/issues"
+		"url": "https://github.com/FridgeSharon/fair-place-task/issues"
 	},
-	"homepage": "https://github.com/FridgeSharon/fair-flight-task#readme",
+	"homepage": "https://github.com/FridgeSharon/fair-place-task#readme",
 	"dependencies": {
 		"axios": "^1.6.8"
 	},
