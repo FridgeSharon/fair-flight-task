@@ -6,8 +6,9 @@ Created as a home task for FairPlace by Guy Sharon.
 
 To get started:
 
-1. Install dependencies: run `npm i`.
-2. Start the project: `npm run start`.
+1. Clone the project.
+2. Install dependencies: run `npm i`.
+3. Start the project: `npm run start`.
 
 ## General Information
 
